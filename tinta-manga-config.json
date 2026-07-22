@@ -1,0 +1,18 @@
+{
+  "interstitialEvery": 3,
+  "freeChapters": 2,
+  "collections": [],
+  "sources": {
+    "disabled": [],
+    "order": [
+      "mangadex",
+      "manhwaweb",
+      "inmanga",
+      "mangamx",
+      "mangalect",
+      "lectormanga",
+      "olympus"
+    ],
+    "secondaryWaveSize": 2
+  }
+}
