@@ -1,6 +1,9 @@
 {
   "interstitialEvery": 3,
   "freeChapters": 2,
+  "adGraceChapters": 8,
+  "interstitialMaxPerHour": 4,
+  "adUnlockHours": 72,
   "collections": [],
   "sources": {
     "disabled": [],
