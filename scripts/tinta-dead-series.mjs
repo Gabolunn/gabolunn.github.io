@@ -13,7 +13,8 @@
 //   node scripts/tinta-dead-series.mjs --ids a,b   # revisar obras concretas
 import { readFileSync, writeFileSync, existsSync } from 'node:fs'
 
-const API = 'https://manhwawebbackend-production.up.railway.app'
+// 13-oct-2026: el backend dejó Railway («Application not found»); su web llama a api.manhwaweb.com.
+const API = 'https://api.manhwaweb.com'
 const HEADERS = { Referer: 'https://manhwaweb.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36' }
 const STATE = 'tinta-dead-series-state.json'
 const OUTPUT = 'tinta-dead-series.json'
