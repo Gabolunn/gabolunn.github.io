@@ -4,6 +4,11 @@
   "adGraceChapters": 8,
   "interstitialMaxPerHour": 4,
   "adUnlockHours": 72,
+  "campaign": {
+    "endsAt": "2026-11-13T23:59:00-03:00",
+    "title": "Oferta trimestral",
+    "plan": "quarterly"
+  },
   "collections": [],
   "sources": {
     "disabled": [],
