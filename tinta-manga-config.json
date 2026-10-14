@@ -1,8 +1,8 @@
 {
   "interstitialEvery": 3,
   "freeChapters": 2,
-  "adGraceChapters": 8,
-  "interstitialMaxPerHour": 4,
+  "adGraceChapters": 0,
+  "interstitialMaxPerHour": 0,
   "adUnlockHours": 72,
   "campaign": {
     "endsAt": "2026-11-13T23:59:00-03:00",
