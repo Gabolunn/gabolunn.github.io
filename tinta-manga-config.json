@@ -1,6 +1,7 @@
 {
   "interstitialEvery": 3,
   "freeChapters": 2,
+  "dailyFreeChapters": 20,
   "adGraceChapters": 0,
   "interstitialMaxPerHour": 0,
   "adUnlockHours": 72,
