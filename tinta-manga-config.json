@@ -1,5 +1,5 @@
 {
-  "interstitialEvery": 3,
+  "interstitialEvery": 2,
   "freeChapters": 2,
   "dailyFreeChapters": 0,
   "adGraceChapters": 0,
@@ -24,5 +24,10 @@
       "olympus"
     ],
     "secondaryWaveSize": 2
-  }
+  },
+  "freeLibraryLimit": 3,
+  "freeCategoryLimit": 1,
+  "premiumOfferEveryChapters": 5,
+  "premiumFollowOfferAt": 2,
+  "adUnlockMinutes": 10
 }
