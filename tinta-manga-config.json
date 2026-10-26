@@ -1,10 +1,11 @@
 {
   "interstitialEvery": 3,
   "freeChapters": 2,
-  "dailyFreeChapters": 12,
+  "dailyFreeChapters": 0,
   "adGraceChapters": 0,
   "interstitialMaxPerHour": 0,
-  "adUnlockHours": 72,
+  "adUnlockHours": 24,
+  "premiumHintGapMinutes": 3,
   "campaign": {
     "endsAt": "2026-11-13T23:59:00-03:00",
     "title": "Oferta trimestral",
