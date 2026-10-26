@@ -4,7 +4,7 @@
   "dailyFreeChapters": 0,
   "adGraceChapters": 0,
   "interstitialMaxPerHour": 0,
-  "adUnlockHours": 24,
+  "adUnlockHours": 1,
   "premiumHintGapMinutes": 3,
   "campaign": {
     "endsAt": "2026-11-13T23:59:00-03:00",
