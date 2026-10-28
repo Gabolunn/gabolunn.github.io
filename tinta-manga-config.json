@@ -1,11 +1,11 @@
 {
   "interstitialEvery": 3,
   "freeChapters": 2,
-  "dailyFreeChapters": 0,
+  "dailyFreeChapters": 10,
   "adGraceChapters": 0,
   "interstitialMaxPerHour": 0,
   "adUnlockHours": 1,
-  "premiumHintGapMinutes": 3,
+  "premiumHintGapMinutes": 1440,
   "campaign": {
     "endsAt": "2026-11-13T23:59:00-03:00",
     "title": "Oferta trimestral",
@@ -27,7 +27,7 @@
   },
   "freeLibraryLimit": 3,
   "freeCategoryLimit": 1,
-  "premiumOfferEveryChapters": 5,
+  "premiumOfferEveryChapters": 12,
   "premiumFollowOfferAt": 2,
   "adUnlockMinutes": 10
 }
