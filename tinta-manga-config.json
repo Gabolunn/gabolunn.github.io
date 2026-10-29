@@ -1,5 +1,6 @@
 {
   "interstitialEvery": 3,
+  "pushNotifications": true,
   "freeChapters": 2,
   "dailyFreeChapters": 10,
   "adGraceChapters": 0,
