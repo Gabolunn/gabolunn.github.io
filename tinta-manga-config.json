@@ -14,7 +14,7 @@
   },
   "collections": [],
   "sources": {
-    "disabled": [],
+    "disabled": ["lectormanga"],
     "order": [
       "mangadex",
       "manhwaweb",
