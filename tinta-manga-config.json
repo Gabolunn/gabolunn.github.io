@@ -7,14 +7,11 @@
   "interstitialMaxPerHour": 0,
   "adUnlockHours": 1,
   "premiumHintGapMinutes": 1440,
-  "campaign": {
-    "endsAt": "2026-11-13T23:59:00-03:00",
-    "title": "Oferta trimestral",
-    "plan": "quarterly"
-  },
   "collections": [],
   "sources": {
-    "disabled": ["lectormanga"],
+    "disabled": [
+      "lectormanga"
+    ],
     "order": [
       "mangadex",
       "manhwaweb",
