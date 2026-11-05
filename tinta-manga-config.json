@@ -3,7 +3,7 @@
   "pushNotifications": true,
   "freeChapters": 2,
   "dailyFreeChapters": 10,
-  "adGraceChapters": 0,
+  "adGraceChapters": 8,
   "interstitialMaxPerHour": 0,
   "adUnlockHours": 1,
   "premiumHintGapMinutes": 1440,
