@@ -5,7 +5,7 @@
   "dailyFreeChapters": 10,
   "adGraceChapters": 8,
   "interstitialMaxPerHour": 0,
-  "adUnlockHours": 1,
+  "adUnlockHours": 2,
   "premiumHintGapMinutes": 1440,
   "collections": [],
   "sources": {
@@ -25,5 +25,5 @@
   "freeCategoryLimit": 1,
   "premiumOfferEveryChapters": 12,
   "premiumFollowOfferAt": 2,
-  "adUnlockMinutes": 10
+  "adUnlockMinutes": 120
 }
