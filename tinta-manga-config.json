@@ -9,9 +9,7 @@
   "premiumHintGapMinutes": 1440,
   "collections": [],
   "sources": {
-    "disabled": [
-      "lectormanga"
-    ],
+    "disabled": [],
     "order": [
       "mangadex",
       "manhwaweb",
