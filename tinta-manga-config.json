@@ -1,5 +1,6 @@
 {
   "interstitialEvery": 3,
+  "minVersionCode": 20522,
   "pushNotifications": true,
   "freeChapters": 2,
   "dailyFreeChapters": 10,
